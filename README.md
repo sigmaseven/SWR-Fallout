@@ -9,7 +9,7 @@ Using Ubuntu Server 18.10 use the following commands:
 sudo apt-get install csh make gcc
 
 git clone https://github.com/jcmcbeth/swr2.git
-cd swr2/swr-2.0/src
+cd swr2/swr-fallout/src
 
 make all
 

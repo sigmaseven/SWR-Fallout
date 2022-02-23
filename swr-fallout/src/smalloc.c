@@ -124,7 +124,7 @@ union	overhead {
  * precedes the data area returned to the user.
  */
 static	union overhead *nextf[NBUCKETS];
-extern	char *sbrk();
+extern	void *sbrk();
 
 static	int pagesz;			/* page size */
 static	int pagebucket;			/* page size bucket */

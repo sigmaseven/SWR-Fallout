@@ -1,0 +1,3 @@
+/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/CMakeFiles/swr-fallout.dir

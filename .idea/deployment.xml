@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ARM (19a9cf92-acdf-4a74-afc1-d22432689288)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ARM (5a4a64a6-7ba1-4383-8010-68a1d4df3c5c)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ARM (9de2aa44-74e6-40af-a360-224c91de8870)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ARM (b2fc2131-b8ca-46cc-8f4c-bba91c91661c)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ARM (d1a71551-66ac-42b3-bc6e-e993cdeef65e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ARM (d41f3224-97ae-4749-9af6-bec30a81cbcd)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (1b05032b-529f-4d0f-9ec7-ff2e23e65368)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (2e47f018-7417-4f0a-ad2c-cb417aff60f1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (32ed9a27-f955-425a-bc53-d3de25972cdc)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (51a757cd-7a95-4931-af22-34641ff44e2d)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (6787772a-1359-4a3f-be70-8e9690451248)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (687a015f-afc4-4975-ab4f-930c95f532fb)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (cdceed80-e0c6-43be-883b-0bdfee8a6be9)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (d0785dd1-9aea-42dd-806c-11f7375b81ab)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SWR-Fallout (39cc4cf7-a452-40fd-9e36-13f9acc263f5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/swr-fallout" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SWR-Fallout (3d6dd127-372c-466e-b7fd-dfbaaa170947)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.exmuXGsvRP" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="SWR-Fallout (9313cbc6-f3f8-4ff7-b9af-1c833b190ee2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.GPLIkNafTE" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="SWR-Fallout (eaad5d4e-338a-4a7e-b00f-ab99cdccc90f)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

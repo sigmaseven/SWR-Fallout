@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.exmuXGsvRP/swr-fallout/src/smalloc.c
+sys/types.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+stdio.h
+-
+

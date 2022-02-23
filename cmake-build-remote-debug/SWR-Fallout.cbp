@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SWR-Fallout"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swr-fallout">
+				<Option output="/tmp/tmp.exmuXGsvRP/swr-fallout/bin/swr-fallout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.exmuXGsvRP/swr-fallout/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.exmuXGsvRP/swr-fallout/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 swr-fallout"/>
+					<CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="swr-fallout/fast">
+				<Option output="/tmp/tmp.exmuXGsvRP/swr-fallout/bin/swr-fallout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.exmuXGsvRP/swr-fallout/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.exmuXGsvRP/swr-fallout/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 swr-fallout/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/tmp/tmp.exmuXGsvRP/cmake-build-remote-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/act_comm.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/act_info.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/act_move.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/act_obj.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/act_wiz.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/boards.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/build.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/clans.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/comm.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/const.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/db.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/fight.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/handler.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/hashstr.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/id.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/interp.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/magic.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/makeobjs.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/misc.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/morespace.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/mud_comm.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/mud_prog.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/planets.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/player.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/requests.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/reset.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/save.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/shops.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/skills.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/smalloc.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/space.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/special.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/swskills.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/tables.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/track.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/update.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/swr-fallout/src/vote.c">
+			<Option target="swr-fallout"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.exmuXGsvRP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

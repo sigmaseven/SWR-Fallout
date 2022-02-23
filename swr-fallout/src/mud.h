@@ -3336,7 +3336,7 @@ char *	crypt		args( ( const char *key, const char *salt ) );
 #define CORPSE_DIR	"../corpses/"	/* Corpses			*/
 #define NULL_FILE	"/dev/null"	/* To reserve one stream	*/
 
-#define AREA_LIST	"area.lst"	/* List of areas		*/
+#define AREA_LIST	"../area/area.lst"	/* List of areas		*/
 #define BAN_LIST        "ban.lst"       /* List of bans                 */
 #define CLAN_LIST	"clan.lst"	/* List of clans		*/
 #define SHIP_LIST       "ship.lst"
